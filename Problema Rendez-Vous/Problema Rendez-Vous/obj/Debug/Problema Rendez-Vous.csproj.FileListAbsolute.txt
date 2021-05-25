@@ -1,0 +1,7 @@
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\bin\Debug\Problema Rendez-Vous.exe.config
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\bin\Debug\Problema Rendez-Vous.exe
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\bin\Debug\Problema Rendez-Vous.pdb
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\obj\Debug\Problema Rendez-Vous.csprojAssemblyReference.cache
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\obj\Debug\Problema Rendez-Vous.csproj.CoreCompileInputs.cache
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\obj\Debug\Problema Rendez-Vous.exe
+C:\Users\Jacopo Montella\source\repos\Problema Rendez-Vous\Problema Rendez-Vous\obj\Debug\Problema Rendez-Vous.pdb
